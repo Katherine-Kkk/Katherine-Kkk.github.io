@@ -2,7 +2,10 @@
 layout: default
 ---
 
-欢迎来到森森的个人主页。
+欢迎来到森森的个人主页。有问题欢迎随时联系我~
+
+[我的知乎（暂未开放）]().
+[我的Github主页](https://github.com/Katherine-Kkk).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -13,7 +16,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1森森
+# Mathematics
+
+用于记录研究生数学课笔记：数值分析 Numerical Analysis & 矩阵分析 Matrix Analysis
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
