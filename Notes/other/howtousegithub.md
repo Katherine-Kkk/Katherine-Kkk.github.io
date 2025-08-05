@@ -10,21 +10,25 @@ layout: default
 
 
 1.  登录自己的github账号，在repositories创建一个new issue。
+
 2.  然后进入自己新创的issue，复制下载指令，（在电脑中待下载的位置）打开终端输入下载指令。
 
   git clone + 下载代码（最好是ssh）
   
 3.  随后在下载好的文件夹中加入自己需要上传的代码。
+
 4.  进入拉取文件下的目录，打开终端，输入：
 
   git add *
   
   代表更新全部内容
+
 5.  随后输入
 
   git commit -m "update”
 
   代表完成更新。
+
 6.  最后输入
   
   git push origin main
@@ -32,6 +36,7 @@ layout: default
   表示push到远程的main分支上。如果下载的时候用的是ssh方法，则此步骤不需要输入账号和密码。如果用的是http，则需要。
   
   上传成功后就会看到在GitHub上对应的profile会更新，而且前面的更新说明有update也会出现在这里
+
 
 #### 一些注意事项
 
