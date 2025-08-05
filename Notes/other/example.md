@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to another page
 
-[back](./)
+[返回主页](../../.)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
