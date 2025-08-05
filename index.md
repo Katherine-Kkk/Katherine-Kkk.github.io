@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Welcome!欢迎来到森森的个人主页。
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
