@@ -3,4 +3,10 @@
 
 @import 'jekyll-theme-architect';
 
-
+.site-header {
+  background-image: url("../Cat0.jpg");
+  
+  background-size: cover;
+  background-position: center;
+  height: 400px; 
+}
