@@ -5,11 +5,12 @@ layout: default
 欢迎来到森森的个人主页（研究生新生一枚）。有问题欢迎随时联系我~
 
 [我的知乎（暂未开放）]().
+
 [我的Github主页](https://github.com/Katherine-Kkk).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[一些网页书写实例](./another-page.html).
 [Link to another page](./another-page2.html).
 
 There should be whitespace between paragraphs.
@@ -19,8 +20,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Mathematics
 
 用于记录研究生数学课笔记：数值分析 Numerical Analysis & 矩阵分析 Matrix Analysis
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Numerical Analysis
 
@@ -44,6 +43,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
+# Mathematics
+
+用于记录研究生数学课笔记：数值分析 Numerical Analysis & 矩阵分析 Matrix Analysis
 
 #### Header 4
 
