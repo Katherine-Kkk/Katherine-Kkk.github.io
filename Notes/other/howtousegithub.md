@@ -42,14 +42,14 @@ layout: default
 
   拉取当前分支最新代码
 
-2.  在第6步骤中不想输入密码，则可以
+2.  在第6步骤中不想输入密码，可以选择更改远程方式（http改为ssh）
 
-  git pull
+  git remote -v   （查看当前远程方式）
 
-  拉取当前分支最新代码
+  git remote rm origin   （移除旧的远程方式）
+
+  git remote add origin + 复制并粘贴ssh下载代码   （添加新的远程方式，这里+不输入，仅表示and）
 
 3.  查看当前仓库的状态：
 
   git status
-
-  拉取当前分支最新代码
