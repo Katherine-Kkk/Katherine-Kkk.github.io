@@ -2,11 +2,11 @@
 layout: default
 ---
 
-欢迎来到森森的个人主页（研究生新生一枚），主要记录个人学习日常笔记。有问题欢迎随时联系我~
+欢迎来到森森的个人主页（研究生新生一枚），主要记录个人学习日常笔记。有问题欢迎联系我~
 
 [我的知乎（暂未开放）]() and [我的Github主页](https://github.com/Katherine-Kkk).
 
-[一些网页书写实例](./example.html).
+[一些网页书写实例](./Notes/other/example.html).
 
 # Mathematics
 
@@ -26,7 +26,7 @@ layout: default
 
 ## New here！
 
-[上传自己的第一份github代码](./howtousegithub.html).
+[上传自己的第一份github代码](./Notes/other/howtousegithub.html).
 
 # Language Learning
 
