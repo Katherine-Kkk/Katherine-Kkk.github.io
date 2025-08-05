@@ -20,9 +20,9 @@
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
-          <h1> K </h1>
+          <h1> {{ site.title | default: "KKK" }} </h1>
         </a>
-        <h2> k </h2>
+        <h2> {{ site.title | default: "kkk" }} </h2>
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
@@ -40,10 +40,6 @@
 
         <aside id="sidebar">
           {% if site.show_downloads %}
-            <a href="{{ ../another-page.html }}" class="button">
-              <small>welcome</small>
-              about me
-            </a>
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download this</small>
               .zip file
