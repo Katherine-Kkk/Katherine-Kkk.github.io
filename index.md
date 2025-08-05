@@ -2,20 +2,11 @@
 layout: default
 ---
 
-欢迎来到森森的个人主页（研究生新生一枚）。有问题欢迎随时联系我~
+欢迎来到森森的个人主页（研究生新生一枚），主要记录个人学习日常笔记。有问题欢迎随时联系我~
 
-[我的知乎（暂未开放）]().
+[我的知乎（暂未开放）]() and [我的Github主页](https://github.com/Katherine-Kkk).
 
-[我的Github主页](https://github.com/Katherine-Kkk).
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[一些网页书写实例](./another-page.html).
-[Link to another page](./another-page2.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[一些网页书写实例](./example.html).
 
 # Mathematics
 
@@ -23,112 +14,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Numerical Analysis
 
-### Notes
-
 [数值分析预习笔记（暂未开放）](https://www.yuque.com/u45513430/zfrdxg/bh6ag1at53n81h9w#).
 
 ## Matrix Analysis
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-# Mathematics
-
-用于记录研究生数学课笔记：数值分析 Numerical Analysis & 矩阵分析 Matrix Analysis
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+# About Github
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+从github小白到github大白的成长日记
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## New here！
 
-```
-The final element.
-```
+[上传自己的第一份github代码](./howtousegithub.html).
+
+# Language Learning
+
+闲暇时间里的语言学习~
+
+## Japaness
+
