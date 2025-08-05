@@ -6,7 +6,7 @@
 .site-header {
   background-image: url("../Cat0.jpg");
   
-  background-size: cover;
-  background-position: center;
-  height: 400px; 
+  background-size: cover !important;
+  background-position: center !important;
+  height: 400px !important; 
 }
